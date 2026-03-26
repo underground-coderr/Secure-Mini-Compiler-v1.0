@@ -292,4 +292,10 @@ Walks through the AST again looking for dangerous patterns:
 
 ## Author
 
+**Rehan Khan**
 Built as a 6th semester Compiler Construction course project.
+
+---
+
+© 2026 Rehan Khan. All rights reserved.
+Unauthorized copying, distribution, or modification of this project without explicit permission is prohibited.
